@@ -1,0 +1,13 @@
+set NODE_ENV=production
+set DEBUG=app:logger
+set APP_SECRETKEY=This_is_the_Real_Secret_Key
+set DB_USERNAME=maiora
+set DB_PASSWORD=Madmin@6977
+set DB_NAME=fs-prod
+set SENDGRID_API_KEY=''
+set RAZORPAY_APP_KEY=rzp_live_ciYETKwjRFBYwE
+set RAZORPAY_APP_SECRET=gSbS32aC086htAlsdD2ReUqp
+set EMAIL_ADDRESS=thefitsocials@gmail.com
+set EMAIL_PASSWORD=Fitpeeps@06
+set EMAIL_PROVIDER=gmail
+set TZ=Asia/Calcutta

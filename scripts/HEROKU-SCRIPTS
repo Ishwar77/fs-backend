@@ -1,0 +1,7 @@
+# 1. To Set environment
+heroku config:set NODE_ENV=stagging
+
+# 1. To Set DB
+heroku config:set DB_NAME=fs-stagging
+
+

@@ -1,0 +1,15 @@
+set NODE_ENV=test
+set DEBUG=app:logger
+set APP_SECRETKEY=This_is_the_Real_Secret_Key
+set DB_USERNAME=root
+set SENDGRID_API_KEY=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
+set RAZORPAY_APP_KEY=rzp_test_7QB26I8c2fGbMk
+set RAZORPAY_APP_SECRET=pKcHmJyQSTKs14VyY3I0tANb
+set EMAIL_ADDRESS=yesho@maiora.co
+set EMAIL_PASSWORD=Madmin@123
+set EMAIL_PROVIDER=outlook
+#set EMAIL_ADDRESS=thefitsocials@gmail.com
+#set EMAIL_PASSWORD=Fitpeeps@06
+#set EMAIL_PROVIDER=gmail
+#set GMAIL_CLIENT_ID=1067215140254-ff1d62vot8sg4av2o9f373mjsqhjpkt0.apps.googleusercontent.com
+#set GMAIL_CLIENT_SECRET=nlv_sYkhiRp6XS3aZtZmKQxR

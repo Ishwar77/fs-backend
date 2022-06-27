@@ -1,0 +1,13 @@
+set NODE_ENV=staging
+set DEBUG=app:logger
+set APP_SECRETKEY=This_is_the_Real_Secret_Key
+set DB_USERNAME=maiora
+set DB_PASSWORD=Madmin@6977
+set DB_NAME=fs-stagging
+set SENDGRID_API_KEY=''
+set RAZORPAY_APP_KEY=rzp_test_7QB26I8c2fGbMk
+set RAZORPAY_APP_SECRET=pKcHmJyQSTKs14VyY3I0tANb
+set EMAIL_ADDRESS=thefitsocials@gmail.com
+set EMAIL_PASSWORD=Fitpeeps@06
+set EMAIL_PROVIDER=gmail
+set TZ=Asia/Calcutta

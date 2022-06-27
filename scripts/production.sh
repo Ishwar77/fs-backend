@@ -1,0 +1,13 @@
+export NODE_ENV=production
+export DEBUG=app:logger
+export APP_SECRETKEY=This_is_the_Real_Secret_Key
+export DB_USERNAME=maiora
+export DB_PASSWORD=Madmin@6977
+export DB_NAME=fs-prod
+export SENDGRID_API_KEY=''
+export RAZORPAY_APP_KEY=rzp_live_nUJWMhqrlBBrBo
+export RAZORPAY_APP_SECRET=gboBlaX9Vv6qR1ClM72NhVr4
+export EMAIL_ADDRESS=thefitsocials@gmail.com
+export EMAIL_PASSWORD=Fitpeeps@06
+export EMAIL_PROVIDER=gmail
+export TZ=Asia/Calcutta
